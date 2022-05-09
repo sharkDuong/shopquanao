@@ -1,0 +1,10 @@
+.cart-number {
+    position: relative;
+    top: -14px;
+    left: 16px;
+    color: white;
+    background: red;
+    border-radius: 48%;
+    padding: 2px 5px;
+    font-size: 11px;
+}
